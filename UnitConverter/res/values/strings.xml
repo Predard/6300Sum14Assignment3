@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UnitConverter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="unitconv">Unit Converter</string>
+    <string name="distancebutton">Distance</string>
+    <string name="weightconv">Weight</string>
+    <string name="weightbutton">Weight</string>
+    <string name="Temperaturebutton">Temperature</string>
+    <string name="title_activity_distance">DistanceActivity</string>
+    <string name="distancetext">Distance converter</string>
+    <string name="Milesbutton">Miles</string>
+    <string name="Kilometersbutton">Kilometers</string>
+    <string name="title_activity_weight">WeightActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="poundsbutton">Pounds</string>
+    <string name="kilogramsbutton">Kilograms</string>
+    <string name="weighttext">Weight Converter</string>
+    <string name="title_activity_temperature">TemperatureActivity</string>
+    <string name="Farenheitbutton">Farenheit</string>
+    <string name="celciusbutton">Celcius</string>
+    <string name="TemperatureText">Temperarture Converter</string>
+    <string name="tempconverter">Temperature Converter</string>
+    <string name="instructions">Select One of the three options for conversion</string>
+    <string name="distanceIntructions">Enter value to convert and select desired unit to convert to</string>
+
+</resources>
