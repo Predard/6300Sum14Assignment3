@@ -16,3 +16,5 @@ Example:
 
 -if the user types 32 and then select Celcius, the application will assume that the typed numbers 
 are in Farenheit and calculate the equivalent temperature in Celcius
+
+This application requires appcompat library to compile properly.
